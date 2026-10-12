@@ -28,6 +28,51 @@
 
 Waynex 面向正在准备校招的在校生和应届毕业生，也方便符合公告条件的往届生查找机会。我们整理公众号、企业官方招聘渠道与高校就业平台的公开信息，把常用条件、来源入口、校园活动和个人记录集中到一个地方，减少重复查找与整理。
 
+## 图解 Waynex
+
+从集中找信息，到筛选机会、关注活动、记录进度，看看 Waynex 怎样帮助你安排求职。
+
+<p align="center">
+  <a href="https://waynex.lincolab.com/">
+    <img src="assets/posters/03-waynex-overview.png" alt="Waynex 秋招信息整合网站：机会看清楚，求职更有数" width="640">
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="assets/posters/02-information-aggregation.png"><img src="assets/posters/02-information-aggregation.png" alt="招聘信息集中整理，不用再东拼西凑" width="420"></a><br>
+      <strong>招聘信息集中看</strong>
+    </td>
+    <td width="50%" align="center">
+      <a href="assets/posters/04-opportunity-filters.png"><img src="assets/posters/04-opportunity-filters.png" alt="按毕业届次、工作地点、学历和关键词筛选招聘机会" width="420"></a><br>
+      <strong>先筛条件，再决定投哪家</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="assets/posters/05-campus-calendar.png"><img src="assets/posters/05-campus-calendar.png" alt="查找宣讲会和招聘会，关注活动并查看个人日程" width="420"></a><br>
+      <strong>校园活动纳入日程</strong>
+    </td>
+    <td width="50%" align="center">
+      <a href="assets/posters/06-application-progress.png"><img src="assets/posters/06-application-progress.png" alt="记录投递、面试和下一步待办，持续跟进求职进度" width="420"></a><br>
+      <strong>投了哪些，下一步做什么</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="assets/posters/01-campus-recruitment.png"><img src="assets/posters/01-campus-recruitment.png" alt="Waynex 校园招聘信息限时免费宣传海报" width="420"></a><br>
+      <strong>少花时间整理秋招信息</strong>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://waynex.lincolab.com/"><img src="assets/posters/07-try-waynex.png" alt="Waynex 秋招信息与求职管理体验邀请" width="420"></a><br>
+      <strong><a href="https://waynex.lincolab.com/">打开 Waynex，开始找机会 →</a></strong>
+    </td>
+  </tr>
+</table>
+
+图中界面与数据为展示示意，限时免费活动以官网当前说明为准。点击功能图可查看原图，点击产品总览或体验邀请可直接进入 [Waynex 官网](https://waynex.lincolab.com/)。
+
 ## 可以帮你做到什么程度
 
 从发现机会、初步筛选、核对公告，到找到投递渠道、记录求职阶段，Waynex 可以帮你把这些步骤连起来；投递提交、笔面试准备和最终选择仍由你完成。
